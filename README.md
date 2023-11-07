@@ -1,5 +1,6 @@
 # pqueue
 Several variants of priority queue implementations.
+
 array - storing data in array, and lookup for highest priority for each Dequeue.
   Fast Enqueue, very slow Dequeue
   
